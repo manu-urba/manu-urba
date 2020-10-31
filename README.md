@@ -56,13 +56,15 @@ Click on the icon!
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-[1]: https://steamcommunity.com/id/fragordie02/
-
 ---
 
 ## 🎮 Gaming
 Click on the icon!
 
-![](custom_badges/steam.svg)
+<p>
+  <a href="https://steamcommunity.com/id/fragordie02/">
+    <img border="0" alt="W3Schools" src="custom_badges/steam.svg" width="100">
+  </a>
+</p>
 
 ---
