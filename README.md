@@ -1,6 +1,6 @@
 ## Hello there! 👋
-![Profile views counter](https://komarev.com/ghpvc/?username=FrAgOrDiE02&color=orange)
-![follow](https://img.shields.io/github/followers/FrAgOrDiE02?color=orange&label=Followers)<br/>
+![Profile views counter](https://komarev.com/ghpvc/?username=manu-urba&color=orange)
+![follow](https://img.shields.io/github/followers/manu-urba?color=orange&label=Followers)<br/>
 Welcome to my profile! I'm Manuel, a 18 years old guy living in northern Italy.<br/>
 I'm currently studying computer science at high school, but most of my knownledge comes from passion,<br/>
 in fact I like computers and technology since I was a kid and I started programming a few years ago.<br/>
