@@ -9,7 +9,7 @@ Feel free to contact me, I'll gladly listen to you!<br/>
 
 ---
 ```dart
-class Info extends Manuel
+class Manuel extends Person
 {
   String name = "Manuel";
   String surname = "Urbano";
@@ -17,3 +17,14 @@ class Info extends Manuel
   double age = DateTime.now().difference(birthDate).inDays / 365;
 }
 ```
+
+---
+[![manu-urba GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu-urba&count_private=true&show_icons=true)](https://github.com/manu-urba)
+
+---
+<p align="center">
+  <a href="mailto:manuel@manuel.ws"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
+  <a href="https://t.me/fragordie"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" height="16"/>Telegram</a> •
+  <a href="https://steamcommunity.com/id/fragordie02"><img src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" height="16"/>Steam</a> •
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" height="16"/>FrAgOrDiE#5182</a>
+</p>
