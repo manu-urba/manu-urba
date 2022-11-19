@@ -20,5 +20,5 @@ class Manuel extends Person
 ---
 <p align="center">
   <a href="mailto:manuel@manuel.ws"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
-  <a href="https://t.me/manu_urba"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="16"/>Telegram</a> •
+  <a href="https://t.me/manu_urba"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="16"/>Telegram</a>
 </p>
